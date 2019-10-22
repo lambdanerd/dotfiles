@@ -23,6 +23,7 @@ alias ll="ls -halF"
 alias lsaf="ls -aF"
 alias refresh="source ~/.zshrc"
 alias vi="nvi"
+alias ydl="youtube-dl"
 
 # iTerm2 integration
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
