@@ -14,7 +14,7 @@ export PATH="$HOME/.jenv/bin:/usr/local/opt/python/libexec/bin:$HOME/.local/bin:
 
 # I'm lazy af.
 alias c="code-insiders"
-alias cdh="cd ~/; clear"
+alias cdc="cd ~/; clear"
 alias dtj="dhall-to-json"
 alias dtje="dhall-to-json --explain"
 alias dtjp="dhall-to-json --pretty"
